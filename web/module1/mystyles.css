@@ -1,0 +1,7 @@
+h1 {color: red}
+.larger-text{font-size: 55px;}
+.larger-text span{font-size: 80px;}
+#first {color: red}
+#second {color: blue}
+.italic-large{font-size: 40px;
+    font-style: italic}
